@@ -4,7 +4,7 @@
   "author": "eouia",
   "license": "MIT",
   "dependencies": {
-    "@google-cloud/text-to-speech": "^0.5.1",
+    "@google-cloud/text-to-speech": "^2.0.1",
     "electron-rebuild": "^1.8.4"
   }
 }
