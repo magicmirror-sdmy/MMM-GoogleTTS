@@ -16,7 +16,7 @@ This module gives "voice" to MagicMirror
 ## Installation
 ```sh
 cd ~/MagicMirror/modules
-git clone https://github.com/eouia/MMM-GoogleTTS
+git clone https://github.com/magicmirror-sdmy/MMM-GoogleTTS
 cd MMM-GoogleTTS
 npm install
 ./node_modules/.bin/electron-rebuild
